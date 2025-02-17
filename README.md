@@ -1,27 +1,13 @@
-# Angular18VercelSsr
+# angular-18-vercel-ssr
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.14.
+Configuración para habilitar el SSR en Vercel con Angular 18
 
-## Development server
+<img width="490" alt="Captura de pantalla 2025-02-17 a la(s) 14 12 16" src="https://github.com/user-attachments/assets/8fb01f9c-7089-4728-a0b8-e47b43968f13" />
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Demo
 
-## Code scaffolding
+https://angular-18-vercel-ssr.vercel.app/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+##
+>[!NOTE]
+>Revisa los cambios ralizados en el [Commit 15a9ff1](https://github.com/diegoinost02/angular-18-vercel-ssr/commit/15a9ff1ea275cdbf08a666b50b8c222db8708029) para habilitar el SSR en Vercel
