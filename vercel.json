@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "public": true,
+    "name": "angular-18-vercel-ssr",
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/api"
+      }
+    ],
+    "functions": {
+      "api/index.js": {
+        "includeFiles": "dist/angular-18-vercel-ssr/**"
+      }
+    }
+  }
+  
